@@ -15,7 +15,7 @@ from PIL import Image
 
 img=Image.open('./images/download.jpeg')
 st.set_page_config(
-    page_title="ADSC",
+    page_title="SMP",
     page_icon=img
 )
 #st.image('./images/mus.png')
